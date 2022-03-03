@@ -1,0 +1,1 @@
+cd the-key-technology-BE && sbt run

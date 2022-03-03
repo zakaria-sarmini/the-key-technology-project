@@ -1,0 +1,6 @@
+[submodule "the-key-technology-FE"]
+	path = the-key-technology-FE
+	url = git@github.com:zakaria-sarmini/the-key-technology-FE.git
+[submodule "the-key-technology-BE"]
+	path = the-key-technology-BE
+	url = git@github.com:zakaria-sarmini/the-key-technology-BE.git

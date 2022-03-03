@@ -1,0 +1,1 @@
+cd the-key-technology-FE && npm run start
